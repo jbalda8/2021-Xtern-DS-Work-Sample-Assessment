@@ -1,0 +1,180 @@
+id,event_name,category,city,start_date,start_time,end_time,longitude,latitude,min_ticket_price,max_ticket_price
+1,Startups Mentorship Program,Startups & Small Business,Indianapolis,5/14/2022,11:00,12:00,-86.1090119,39.7774501,30.00 USD,75.00 USD
+2,[Free Masterclass] Google Analytics Beginners Tips & Tricks in Indianapolis,Sales & Marketing,Indianapolis,5/10/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+3,[Free Masterclass] How to Write SEO Friendly Google Content in Indianapolis,Sales & Marketing,Indianapolis,5/10/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+4,[Free Masterclass] Rank #1 on Google Maps & Yelp: Local SEO in Indianapolis,Sales & Marketing,Indianapolis,5/10/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+5,Conquer Your Fear of Public Speaking -Indianapolis -Online Free Trial Class,Career,Indianapolis,5/10/2022,18:00,19:30,-86.2798731,39.7360227,0.00 USD,0.00 USD
+6,[Free Masterclass] Get More Targeted Instagram Followers in Indianapolis,Sales & Marketing,Indianapolis,5/10/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+7,"Cyber Security Overview 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+8,Startups Fund Raising Program,Startups & Small Business,Indianapolis,5/14/2022,12:00,13:00,-86.1700894,39.7794767,30.00 USD,75.00 USD
+9,Become a Home-Based Travel Advisor - NO EXPERIENCE NECESSARY (INDIANAPOLIS),Travel,Indianapolis,5/16/2022,20:00,20:30,-86.2314954,39.922868,0.00 USD,0.00 USD
+10,"Sales, Marketing, Customer Acquisition & Retention Strategies for Startup",Sales & Marketing,Indianapolis,5/11/2022,11:00,12:00,-86.158068,39.768403,35.00 USD,75.00 USD
+11,[Free Masterclass] SEO Link Building Strategies 101 in Indianapolis,Sales & Marketing,Indianapolis,5/10/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+12,[Free Masterclass] Google AdWords Tutorial & Walk Through in Indianapolis,Sales & Marketing,Indianapolis,5/10/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+13,Weekly Bible Class,Christianity,Indianapolis,5/14/2022,12:00,14:00,-86.0456477,39.8426551,0.00 USD,0.00 USD
+14,"PMP Certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,999.00 USD,1499.00 USD
+15,"Event Planning 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1009742,39.9249343,545.00 USD,795.00 USD
+16,"Introduction To Web Of Things 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/11/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+17,#JobsOffice Virtual Job Fair / Career Expo Event #Indianapolis,Career,Indianapolis,6/3/2022,11:00,14:00,-86.1573709,39.7713425,0.00 USD,0.00 USD
+18,"Risk Assessment 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+19,"CAPM Certification Training in Indianapolis, in",Pmp,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1799.00 USD
+20,Love Your Relationship Again - Painlessly - Indianapolis,Reunion,Indianapolis,5/10/2022,13:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+21,"PMI-ACP Certification Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,1199.00 USD,1699.00 USD
+22,"PMP Certification Training in Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1799.00 USD
+23,"PMP Certification 4 Days Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.159345,39.7702698,999.00 USD,1699.00 USD
+24,"Wellness 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/11/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+26,"Big Data and Hadoop Developer Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1087848,39.9169508,1699.00 USD,2299.00 USD
+27,"Lean Six Sigma Green Belt 4 Days Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.160095,39.769656,999.00 USD,1699.00 USD
+28,"Salesforce ADM 201 Certification Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1799.00 USD
+29,"PRINCE2® Foundation Certification 4 Days Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.159345,39.7702698,1299.00 USD,1999.00 USD
+30,"Lean Six Sigma Black Belt Certification Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1699.00 USD
+31,"DevOps Certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1087848,39.9169508,1679.00 USD,2249.00 USD
+32,"PMP Certification Training in Indianapolis, IN","Class, Training, or Workshop","Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1999.00 USD
+33,"PRINCE2® Foundation Certification Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,1299.00 USD,1899.00 USD
+34,"Lean Six Sigma Green Belt Certification Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1699.00 USD
+35,"Devops Certification Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,1699.00 USD,2349.00 USD
+36,"Lean Six Sigma Green Belt Certification Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1599.00 USD
+37,"Devops Certification Training in Indianapolis, in",Educators,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.160095,39.769656,1399.00 USD,1899.00 USD
+38,"Lean Six Sigma Black Belt 4 Days Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.159345,39.7702698,999.00 USD,1699.00 USD
+39,"Salesforce ADM 201 Certification 4 Days Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.159345,39.7702698,999.00 USD,1699.00 USD
+40,"CAPM Certification Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1499.00 USD
+42,"PRINCE2® Foundation Certification Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,1299.00 USD,1899.00 USD
+43,"CAPM Certification 4 Days Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.159345,39.7702698,999.00 USD,1799.00 USD
+44,"Salesforce ADM 201 Certification Training in Indianapolis, in",Educators,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.160095,39.769656,999.00 USD,1899.00 USD
+45,"PMP Certification Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.160095,39.769656,1199.00 USD,1999.00 USD
+46,[Free Masterclass] How To Optimize & Rank YouTube Videos in Indianapolis,Sales & Marketing,Indianapolis,5/24/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+47,"Dual Lean Six Sigma Green & Black Belt Training in Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1016699,39.9173071,1749.00 USD,2399.00 USD
+48,"CAPM Class Room Training in Indianapolis, in",Educators,"Indianapolis, IN",5/10/2022,9:00,17:00,-86.1016699,39.9173071,499.00 USD,1899.00 USD
+49,[Free SEO Masterclass] Google Search Console Tutorial in Indianapolis,Sales & Marketing,Indianapolis,5/24/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+50,[Free SEO Masterclass] How Google Works Ranking Websites in Indianapolis,Sales & Marketing,Indianapolis,5/24/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+51,"[Free Masterclass]SEO Keyword Research Tips, Tricks & Tools in Indianapolis",Sales & Marketing,Indianapolis,5/10/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+52,"Employee Engagement 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/10/2022,9:00,17:00,-86.1008598,39.924845,545.00 USD,795.00 USD
+53,Card Class,Other,Indianapolis,5/10/2022,13:00,16:00,-86.0446549,39.8803953,15.00 USD,15.00 USD
+54,[Free SEO Masterclass] On Page vs Off Page SEO Strategies in Indianapolis,Sales & Marketing,Indianapolis,5/11/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+55,Stock Market : Options Trading Profit Strategies,Investment,Indianapolis,5/29/2022,12:00,13:00,-86.1395598,39.829875,99.00 USD,199.00 USD
+57,"Data Science Classroom  Training in Indianapolis, IN",Career,"Indianapolis, IN",5/10/2022,9:00,17:00,-86.1087848,39.9169508,2599.00 USD,2599.00 USD
+58,[Free Masterclass] On Page SEO Strategies for Google in Indianapolis,Sales & Marketing,Indianapolis,5/11/2022,13:00,13:40,-86.1615445,39.7867082,0.00 USD,0.00 USD
+59,"Data Science Certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,1699.00 USD,2199.00 USD
+60,"Lean Six Sigma Black Belt Certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,1699.00 USD,2099.00 USD
+61,"CAPM Certification Training In Indianapolis, IN",Career,Indianapolis,5/10/2022,9:00,17:00,-86.1504735,39.9283129,1049.00 USD,1499.00 USD
+62,"Salesforce Admin 201 and App Builder Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,1749.00 USD,2349.00 USD
+63,"Lean Six Sigma Green Belt Certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,1099.00 USD,1599.00 USD
+64,"Lean Six Sigma Black Belt Certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,1699.00 USD,2099.00 USD
+65,"Data Science Certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,1699.00 USD,2199.00 USD
+66,"DevOps certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,1699.00 USD,2299.00 USD
+67,"""Become a Home-Based Travel Agent"" Indianapolis, IN",Travel,Indianapolis,5/24/2022,18:30,20:00,-86.2315124,39.9228633,0.00 USD,0.00 USD
+68,"PMI-ACP Certification Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/24/2022,9:00,17:00,-86.1586119,39.7696748,1199.00 USD,1799.00 USD
+69,"CSM (Certified Scrum Master) certification Training In Indianapolis, IN",Career,Indianapolis,5/24/2022,9:00,17:00,-86.1504735,39.9283129,949.00 USD,1299.00 USD
+70,"Workplace Reflective Practice 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/16/2022,9:00,17:00,-86.1008598,39.924845,545.00 USD,795.00 USD
+71,"Manager Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/25/2022,9:00,17:00,-86.1008598,39.924845,545.00 USD,795.00 USD
+72,"AgileSHIFT 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/26/2022,21:00,19:00,-86.1008598,39.924845,545.00 USD,795.00 USD
+73,"Business Etiquette 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1008598,39.924845,545.00 USD,795.00 USD
+74,"Business Networking 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/18/2022,9:00,17:00,-86.1008598,39.924845,545.00 USD,795.00 USD
+75,"Big Data Overview 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/18/2022,9:00,17:00,-86.1008598,39.924845,545.00 USD,795.00 USD
+76,"Absence Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1008598,39.924845,545.00 USD,795.00 USD
+77,"Conflict Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1009742,39.9249343,545.00 USD,795.00 USD
+78,"DevOps And ITSM 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1009742,39.9249343,595.00 USD,895.00 USD
+79,"COBIT 5 And ITIL 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/16/2022,9:00,17:00,-86.1009742,39.9249343,595.00 USD,895.00 USD
+80,"Agile and Scrum1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/11/2022,9:00,17:00,-86.1009742,39.9249343,545.00 USD,795.00 USD
+81,"DevOps And ITSM 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1009742,39.9249343,595.00 USD,895.00 USD
+82,"Effective Change Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/16/2022,9:00,17:00,-86.100958,39.9249699,545.00 USD,795.00 USD
+83,"10 Soft Skills You Need 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/16/2022,9:00,17:00,-86.100958,39.9249699,545.00 USD,795.00 USD
+84,"Quality Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+85,"Crisis Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/18/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+86,"Stakeholder Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+87,"ITIL Foundation 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,645.00 USD,895.00 USD
+88,"Organizational Skills 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/11/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+89,"Preparing for Job Interviews 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+90,"Introduction To Agile 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/18/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+91,"Business Succession Planning 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+92,"Time Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+93,"P3O Practitioner 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,645.00 USD,895.00 USD
+94,"Report Writing 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/11/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+95,"Interview Skills 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+96,"Managing a Virtual Team 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+97,"Knowledge Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+98,"SDN Overview 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,645.00 USD,895.00 USD
+99,"Business Presentations 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+100,"Practical Sales Skills 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/18/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+101,"Business Ethics 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/18/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+102,"P3O Practitioner 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/20/2022,9:00,17:00,-86.1007742,39.9249883,645.00 USD,895.00 USD
+103,#DiversityHire Virtual Job Fair / Career Expo #Diversity Event#Indianapolis,Career,Indianapolis ,5/20/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+104,"PgMP Certification Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/20/2022,9:00,17:00,-86.1586119,39.7696748,1099.00 USD,1599.00 USD
+105,"PgMP Certification 3 Days Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/20/2022,9:00,17:00,-86.159345,39.7702698,1299.00 USD,1899.00 USD
+106,"PMI-ACP Certification Training in Indianapolis, in",Educators,"Indianapolis, IN",6/3/2022,9:00,17:00,-86.159345,39.7702698,1199.00 USD,1899.00 USD
+107,"PgMP Certification Training in Indianapolis, in",Educators,"Indianapolis, IN",5/25/2022,9:00,17:00,-86.159345,39.7702698,1499.00 USD,1999.00 USD
+108,"Change Management certification Training In Indianapolis, IN",Career,Indianapolis,5/25/2022,9:00,17:00,-86.1504735,39.9283129,549.00 USD,699.00 USD
+109,"PgMp Certification Training In Indianapolis, IN",Career,Indianapolis,5/25/2022,9:00,17:00,-86.1504735,39.9283129,1549.00 USD,1999.00 USD
+110,"PMI-ACP Certification Training In Indianapolis, IN",Career,Indianapolis,5/25/2022,9:00,17:00,-86.1504735,39.9283129,1099.00 USD,1499.00 USD
+111,"Risk Management Professional (RMP) Training In Indianapolis, IN",Career,Indianapolis,5/27/2022,9:00,17:00,-86.1504735,39.9283129,999.00 USD,1599.00 USD
+112,"Conflict Management Certification Training in Indianapolis, IN",Career,Indianapolis,5/25/2022,9:00,17:00,-86.1016699,39.9173071,559.00 USD,749.00 USD
+113,"Data Analytics certification Training In Indianapolis, IN",Career,Indianapolis,5/25/2022,9:00,17:00,-86.1504735,39.9283129,1649.00 USD,2249.00 USD
+114,"Become a Home Base Travel Business Owner(Indianapolis, IN)",Travel,Indianapolis,5/25/2022,18:30,20:00,-86.2314954,39.922868,0.00 USD,0.00 USD
+115,"ITIL Foundation Certification Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/27/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1699.00 USD
+116,"CSM Certification Training In Indianapolis, IN",Career,Indianapolis,5/25/2022,9:00,17:00,-86.1087848,39.9169508,999.00 USD,999.00 USD
+117,"CSM Certification Training in Indianapolis, IN",Business & Professional,"Indianapolis, IN",5/16/2022,9:00,17:00,-86.1586119,39.7696748,999.00 USD,1599.00 USD
+118,"Certified Scrum Product Owner (CSPO) Training In Indianapolis, IN",Career,Indianapolis,5/26/2022,9:00,17:00,-86.1504735,39.9283129,729.00 USD,1229.00 USD
+119,"ITIL v4 Foundation certification Training In Indianapolis, IN",Career,Indianapolis,5/26/2022,9:00,17:00,-86.1504735,39.9283129,979.00 USD,1449.00 USD
+120,#ProjectCovid Virtual Job Fair / Career Expo Event #Indianapolis,Career,Indianapolis,5/26/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+121,"Emotional Intelligence 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/26/2022,9:00,17:00,-86.1009742,39.9249343,545.00 USD,795.00 USD
+122,#Data #FirstFridayFair Virtual Job Fair / Career Expo Event #Indianapolis,Career,Indianapolis,5/26/2022,11:00,14:00,-86.1573709,39.7713425,0.00 USD,0.00 USD
+124,"Conflict Management 1 Day Certification Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",6/3/2022,9:00,17:00,-86.159345,39.7702698,699.00 USD,1099.00 USD
+126,"Business Case Writing Certification Classroom  Training in Indianapolis, IN",Career,"Indianapolis, IN",5/30/2022,9:00,17:00,-86.1087848,39.9169508,1099.00 USD,1099.00 USD
+127,"Business Case Writing Training in Indianapolis, in",Educators,"Indianapolis, IN",6/3/2022,9:00,17:00,-86.158068,39.768403,599.00 USD,999.00 USD
+128,"Business Case Writing 1 Day Training in Indianapolis, in",Business & Professional,"Indianapolis, IN",5/27/2022,9:00,17:00,-86.159345,39.7702698,599.00 USD,899.00 USD
+129,"Conflict Management Certification Training in Indianapolis, in",Educators,"Indianapolis, IN",5/27/2022,9:00,17:00,-86.160095,39.769656,599.00 USD,1199.00 USD
+130,"Agile & Scrum certification Training In Indianapolis, IN",Career,Indianapolis,5/27/2022,9:00,17:00,-86.1504735,39.9283129,559.00 USD,749.00 USD
+131,#Qampus Virtual Job Fair/Career Expo #College#University Event#Indianapolis,Career,Indianapolis,5/27/2022,11:00,14:00,-86.1573709,39.7713425,0.00 USD,0.00 USD
+132,Monthly Botox & Dermal Filler Training Certification - Indianapolis,Medical,Indianapolis,5/27/2022,12:00,17:00,-86.1539152,39.9315131,1499.00 USD,1499.00 USD
+133,#StartupMoves Virtual Job Fair / Career Expo #Startup #Founder#Indianapolis,Career,Indianapolis ,5/27/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+134,Coffee with the Curator 2022,Historic,Indianapolis,5/27/2022,8:30,9:00,-86.1544065,39.7840906,0.00 USD,6.00 USD
+135,#ConstructionHires Virtual Job Fair / Career Expo Event #Indianapolis,Career,Indianapolis,5/27/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+136,#TransitHires Virtual Job Fair / Career Expo Event #Indianapolis,Career,Indianapolis,6/3/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+137,#EnergyHires Virtual Job Fair / Career Expo Event #Indianapolis,Career,Indianapolis,6/1/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+138,#FlexibleHires Virtual Job Fair / Career Expo Event #Indianapolis,Career,Indianapolis,6/3/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+139,"Introduction To Software Test Automation 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/3/2022,9:00,17:00,-86.1009742,39.9249343,645.00 USD,895.00 USD
+140,"Writing a CV 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/3/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+141,"Writing a CV 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/3/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+142,"Leading Effective Teams 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/3/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+143,#VeteranWorks Virtual Job Fair / Career Expo #Veterans Event #Indianapolis,Career,Indianapolis  ,6/3/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+144,AnalyticsWeek Virtual Job Fair / Career Networking Event #Inidanapolis,Career,Indianapolis,5/30/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+145,Monthly #NonProfit Virtual JobExpo / Career Fair #Indianapolis,Education,Indianapolis,5/30/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+146,Monthly #USGov Virtual JobExpo / Career Fair #Indianapolis,Education,Indianapolis,5/30/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+147,#AnalyticsClub Virtual Job Fair / Career Expo Event #Indianapolis,Career,Indianapolis,5/30/2022,11:00,14:00,-86.1573709,39.7713425,0.00 USD,0.00 USD
+148,#Caimpus Virtual JobFair/Career Expo #College#University Event#Indianapolis,Career,Indianapolis,6/3/2022,11:00,14:00,-86.158068,39.768403,0.00 USD,0.00 USD
+149,"NAIOMT C-516 Cervical Spine I [Indianapolis, IN]2022",Medical,Indianapolis,6/3/2022,7:30,16:00,-86.1518831,39.9330713,349.00 USD,599.00 USD
+150,Ladies Who Brunch - Instructional Cooking Class,Food & Drink,Carmel,6/3/2022,18:00,21:00,-86.1463395,39.9769745,100.00 USD,175.00 USD
+151,"Human Resource Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/3/2022,9:00,17:00,-86.1009742,39.9249343,545.00 USD,795.00 USD
+152,Indianapolis |Non Invasive Body Sculpting Training| School of Glamology,Business & Professional,Indianapolis,6/3/2022,10:00,17:00,-86.159345,39.7702698,500.00 USD,500.00 USD
+153,"Internet Marketing Fundamentals 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/3/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+154,"Account Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/4/2022,9:00,17:00,-86.1009742,39.9249343,545.00 USD,795.00 USD
+155,"Big Data Strategy 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,5/12/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+156,"Essential Management Skills 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/6/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+157,"Software Testing Essentials 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/6/2022,9:00,17:00,-86.1007742,39.9249883,645.00 USD,895.00 USD
+158,"Stress Management 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/6/2022,9:00,17:00,-86.1007742,39.9249883,545.00 USD,795.00 USD
+159,The Art Of Posing - A 2 Hour Photography Course,Other,Carmel,6/6/2022,14:00,16:00,-86.2056644,39.9777038,98.00 USD,98.00 USD
+160,"Communication Strategies 1 Day Training in Indianapolis, IN",Business & Professional,Indianapolis,6/6/2022,9:00,17:00,-86.1009742,39.9249343,545.00 USD,795.00 USD
+161,7 Steps to Better Photography - The Crash Course May 14,Other,Carmel,6/6/2022,9:00,13:00,-86.2056644,39.9777038,150.00 USD,150.00 USD
+163,How To Improve Your Focus and Limit Distractions - Indianapolis,Career,Indianapolis,6/6/2022,14:00,14:30,-86.2767995,39.9831886,0.00 USD,0.00 USD
+164,Beyond the Basics:  Advanced Lighting Workshop,,Carmel,6/6/2022,14:00,17:00,-86.2056644,39.9777038,98.00 USD,98.00 USD
+165,Shalom Dr. Dannee Neal Back-To-School Health Fair,Health & Wellness,Indianapolis,5/14/2022,10:00,14:00,-86.2297007,39.8176074,75.00 USD,7000.00 USD
+166,Speed Reading Class - Indianapolis,Parenting,Indianapolis,6/13/2022,14:00,15:00,-86.2767995,39.9831886,0.00 USD,0.00 USD
+167,7th Annual Pro-Life Women's Conference,Other,Plainfield,5/14/2022,12:00,15:00,-86.364631,39.674544,100.00 USD,159.00 USD
+168,IN Stampers Annual Retired Sale,DIY,Fishers,5/10/2022,10:00,14:00,-86.0092897,39.9802812,0.00 USD,0.00 USD
+169,Days Of The Dead : Indianapolis,"Film, Media & Entertainment",Indianapolis,5/11/2022,19:00,22:00,-86.0416617,39.7967881,329.00 USD,850.00 USD
+170,"ITIL Foundation Certification Training in Indianapolis, IN",Career,"Indianapolis, IN",6/11/2022,9:00,1:00,-86.2767995,39.9831886,1699.00 USD,1699.00 USD
+171,"Project Management Techniques Training in Indianapolis, IN",Career,"Indianapolis, IN",7/23/2022,9:00,17:00,-86.2767995,39.9831886,899.00 USD,899.00 USD
+172,"Change Management Classroom Training in Indianapolis, IN",Career,"Indianapolis, IN",5/10/2022,9:00,17:00,-86.2767995,39.9831886,749.00 USD,749.00 USD
+173,"Agile & Scrum Classroom Training in Indianapolis, IN",Career,"Indianapolis, IN",6/24/2022,9:00,17:00,-86.2767995,39.9831886,899.00 USD,899.00 USD
+174,"Business Case Writing Classroom Training in Indianapolis, IN",Career," Indianapolis, IN",6/4/2022,9:00,17:00,-86.2767995,39.9831886,899.00 USD,899.00 USD
+175,"Change Management Classroom Training in Indianapolis, IN",Career,"Indianapolis, IN",7/22/2022,9:00,17:00,-86.2767995,39.9831886,899.00 USD,899.00 USD
+176,"Conflict Management Classroom Training in Indianapolis, IN",Career,"Indianapolis, IN",5/19/2022,9:00,17:00,-86.2767995,39.9831886,999.00 USD,999.00 USD
+177,"Conflict Management Classroom Training in Indianapolis, IN",Career,"Indianapolis, IN",5/27/2022,9:00,17:00,-86.2767995,39.9831886,799.00 USD,799.00 USD
+178,Beyond the Basics: The Artsy Stuff!  A 3 Hour Journey of Photo Expression!,Other,Carmel,5/27/2022,14:00,17:00,-86.2056644,39.9777038,98.00 USD,98.00 USD
+179,Joy's House Gardening Part 2,,Indianapolis,5/27/2022,10:00,13:00,-86.1312077,39.7063384,,
+180,NGT 2022,Basketball,Indianapolis,5/27/2022,18:00,18:00,-85.9989475,39.7921735,15.00 USD,25.00 USD
+181,Barbecue & Bourbon - Instructional Cooking Class,Food & Drink,Carmel,5/27/2022,18:00,21:00,-86.1463395,39.9769745,100.00 USD,175.00 USD
+182,Posh Wedding Planning Event July 2022,Fashion & Beauty,Carmel,5/27/2022,18:00,21:00,-86.117897,39.9634914,10.00 USD,10.00 USD
+183,Summertime in Paris - Instructional Cooking Class,Food & Drink,Carmel,5/27/2022,18:00,21:00,-86.1463395,39.9769745,100.00 USD,175.00 USD
+184,OutCare's 1st Annual Gala: A Night Out,Medical,Indianapolis,7/9/2022,18:30,23:59,-86.1699845,39.7594157,150.00 USD,1800.00 USD
+185,Fishers One Spark! Parade 2022,City/Town,Fishers,5/20/2022,16:45,20:00,-86.009071,39.965047,0.00 USD,0.00 USD
